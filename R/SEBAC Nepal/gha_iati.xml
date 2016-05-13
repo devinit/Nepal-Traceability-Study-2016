@@ -1,0 +1,258 @@
+<iati-activities version="2.01" generated-datetime="2016-05-12T13:12:50Z">
+  <iati-activity last-updated-datetime="2016-05-12T13:12:50Z" xml:lang="en" default-currency="USD" hierarchy="1" linked-data-uri="">
+    <iati-identifier>AID-367-A-16-00001</iati-identifier>
+    <reporting-org ref="XI-IATI-WHS-NEPAL" type="80" secondary-reporter="1">
+      <narrative xml:lang="en">Nepal Traceability Study 2016</narrative>
+    </reporting-org>
+    <title>
+      <narrative xml:lang="en">Water, Sanitation and Hygiene (WASH) Recovery Activity (WRA) Program</narrative>
+    </title>
+    <description>
+      <narrative xml:lang="en">WRA program aims to renovate and/or newly construct 200 Community water supply systems and at least 10 public latrines at markets/bus stops  </narrative>
+    </description>
+    <participating-org ref="SEBAC Nepal" role="3">
+      <narrative xml:lang="en">SEBAC Nepal</narrative>
+    </participating-org>
+    <activity-status code="2"/>
+    <activity-date type="2" iso-date="2015-01-12">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <activity-date type="4" iso-date="2019-11-30">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <contact-info type="">
+      <organisation>
+        <narrative xml:lang="en">SEBAC Nepal</narrative>
+      </organisation>
+      <department>
+        <narrative xml:lang="en"></narrative>
+      </department>
+      <person-name>
+        <narrative xml:lang="en">BB Thapa</narrative>
+      </person-name>
+      <job-title>
+        <narrative xml:lang="en">Chief of Party</narrative>
+      </job-title>
+      <telephone></telephone>
+      <email></email>
+      <website></website>
+      <mailing-address>
+        <narrative xml:lang="en"></narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="NP" percentage="100"/>
+    <location ref="geoname_id">
+      <location-id code="1283431" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Dolakha</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283431">
+        <pos>27.83333 86.25</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="7647006" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Sindhupalchok</narrative>
+      </name>
+      <point srsName="http://geonames.org/7647006">
+        <pos>27.82936 85.54504</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <sector vocabulary="99" code="">
+      <narrative xml:lang="en">Water, Sanitation and Hygiene</narrative>
+    </sector>
+    <budget type="">
+      <period-start iso-date="2015-01-12"/>
+      <period-end iso-date="2019-11-30"/>
+      <value currency="USD" value-date="2015-01-12">4790000</value>
+    </budget>
+    <transaction ref="Incoming Funds">
+      <transaction-type code="1"/>
+      <transaction-date iso-date="2015-01-12"/>
+      <value currency="USD" value-date="2015-01-12">4790000</value>
+      <description>
+        <narrative xml:lang="en">; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">USAID</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">SEBAC Nepal</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <related-activity ref="XI-IATI-WHS-NEPAL-" type="1"/>
+    <result type="" aggregation-status="false">
+      <title>
+        <narrative xml:lang="en"></narrative>
+      </title>
+      <description>
+        <narrative xml:lang="en">200 Community water supply systems renovated and/or newly constructed for earthquake-affected communities and at least 10 public latrines in market/public places</narrative>
+      </description>
+      <indicator measure="" ascending="1">
+        <title>
+          <narrative xml:lang="en"></narrative>
+        </title>
+      </indicator>
+    </result>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2016-05-12T13:12:50Z" xml:lang="en" default-currency="USD" hierarchy="1" linked-data-uri="">
+    <iati-identifier>XI-IATI-WHS-NEPAL-WFP_SEBAC</iati-identifier>
+    <reporting-org ref="XI-IATI-WHS-NEPAL" type="80" secondary-reporter="1">
+      <narrative xml:lang="en">Nepal Traceability Study 2016</narrative>
+    </reporting-org>
+    <title>
+      <narrative xml:lang="en">Food and Cash for Work and  Training  Activities under EMOP III</narrative>
+    </title>
+    <description>
+      <narrative xml:lang="en"></narrative>
+    </description>
+    <participating-org ref="SEBAC Nepal" role="3">
+      <narrative xml:lang="en">SEBAC Nepal</narrative>
+    </participating-org>
+    <activity-status code="3"/>
+    <activity-date type="2" iso-date="2015-09-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <activity-date type="4" iso-date="2016-03-31">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <contact-info type="">
+      <organisation>
+        <narrative xml:lang="en">SEBAC Nepal</narrative>
+      </organisation>
+      <department>
+        <narrative xml:lang="en"></narrative>
+      </department>
+      <person-name>
+        <narrative xml:lang="en">Atual Upadhaya</narrative>
+      </person-name>
+      <job-title>
+        <narrative xml:lang="en">Program Coordinator</narrative>
+      </job-title>
+      <telephone></telephone>
+      <email></email>
+      <website></website>
+      <mailing-address>
+        <narrative xml:lang="en"></narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="NP" percentage="100"/>
+    <location ref="geoname_id">
+      <location-id code="7647006" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Sindhupalchok</narrative>
+      </name>
+      <point srsName="http://geonames.org/7647006">
+        <pos>27.82936 85.54504</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <sector vocabulary="99" code="">
+      <narrative xml:lang="en">Food Security</narrative>
+    </sector>
+    <budget type="">
+      <period-start iso-date="2015-09-01"/>
+      <period-end iso-date="2016-03-31"/>
+      <value currency="USD" value-date="2015-09-01">725352</value>
+    </budget>
+    <transaction ref="Incoming Funds">
+      <transaction-type code="1"/>
+      <transaction-date iso-date="2015-01-09"/>
+      <value currency="USD" value-date="2015-01-09">725352</value>
+      <description>
+        <narrative xml:lang="en">; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">WFP</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">SEBAC Nepal</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-05-01"/>
+      <value currency="USD" value-date="2015-05-01">205949</value>
+      <description>
+        <narrative xml:lang="en">ODOC for Food Activities; Transaction date is missing. 2015-05-01 is a placeholder</narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">SEBAC Nepal</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">various</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code=""/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-05-01"/>
+      <value currency="USD" value-date="2015-05-01">182355</value>
+      <description>
+        <narrative xml:lang="en">ODOC for Cash Activities ; Transaction date is missing. 2015-05-01 is a placeholder</narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">SEBAC Nepal</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">various</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code=""/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-05-01"/>
+      <value currency="USD" value-date="2015-05-01">337048</value>
+      <description>
+        <narrative xml:lang="en">LTSH Related Cost; Transaction date is missing. 2015-05-01 is a placeholder</narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">SEBAC Nepal</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">various</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code=""/>
+    </transaction>
+    <related-activity ref="XI-IATI-WHS-NEPAL-" type="1"/>
+    <result type="" aggregation-status="false">
+      <title>
+        <narrative xml:lang="en"></narrative>
+      </title>
+      <description>
+        <narrative xml:lang="en"> - Emergency relief through food security across 17 VDCs. As of December 31st, 2015, a total of 1375 metric tonnes of food (rise and pulse) has been distributed to 12,628 households.
+- Emergency relief through financial security across 21 VDCs. As of December 31st, 2015, a total of NPR 119,817,000 has been distributed to 17,625 households
+- Rehabilitation of 374km of rural roads and 1068km of foot trails, resulting in easier access between VDCs and market centers
+- Rehabilitation of community assets including buildings (schools, community buildings, temples, etc.),drinking water supply, irrigation facilities (covering 440 hectares) and micro hydropower</narrative>
+      </description>
+      <indicator measure="" ascending="1">
+        <title>
+          <narrative xml:lang="en"></narrative>
+        </title>
+      </indicator>
+    </result>
+  </iati-activity>
+</iati-activities>

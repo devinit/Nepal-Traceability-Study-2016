@@ -1,0 +1,186 @@
+<iati-activities version="2.01" generated-datetime="2016-05-12T13:12:50Z">
+  <iati-activity last-updated-datetime="2016-05-12T13:12:50Z" xml:lang="en" default-currency="USD" hierarchy="1" linked-data-uri="">
+    <iati-identifier>XI-IATI-WHS-NEPAL-NEP1501</iati-identifier>
+    <reporting-org ref="XI-IATI-WHS-NEPAL" type="80" secondary-reporter="1">
+      <narrative xml:lang="en">Nepal Traceability Study 2016</narrative>
+    </reporting-org>
+    <title>
+      <narrative xml:lang="en">Nepal Earthquake Response</narrative>
+    </title>
+    <description>
+      <narrative xml:lang="en">Providing crucial shelter support enabling families to weather the monsoons and preposition themselves for the reconstruction efforts</narrative>
+    </description>
+    <participating-org ref="Trocaire" role="3">
+      <narrative xml:lang="en">Trocaire</narrative>
+    </participating-org>
+    <activity-status code="4"/>
+    <activity-date type="2" iso-date="2015-04-25">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <activity-date type="4" iso-date="2015-07-25">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <contact-info type="3">
+      <organisation>
+        <narrative xml:lang="en">Trocaire</narrative>
+      </organisation>
+      <department>
+        <narrative xml:lang="en">Humanitarian</narrative>
+      </department>
+      <person-name>
+        <narrative xml:lang="en">Orla Duke</narrative>
+      </person-name>
+      <job-title>
+        <narrative xml:lang="en">Programme Development and Institutional Funding Advisor</narrative>
+      </job-title>
+      <telephone>+353 1 5053248†</telephone>
+      <email>orla.duke@trocaire.org</email>
+      <website>Trocaire.org</website>
+      <mailing-address>
+        <narrative xml:lang="en">Trocaire, Maynooth, Co. Kildare</narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="NP" percentage="100"/>
+    <location ref="geoname_id">
+      <location-id code="1283379" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Gorkha</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283379">
+        <pos>28.33333 84.83333</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <sector vocabulary="99" code="">
+      <narrative xml:lang="en">Cluster</narrative>
+    </sector>
+    <budget type="">
+      <period-start iso-date="2015-04-25"/>
+      <period-end iso-date="2015-07-25"/>
+      <value currency="EUR" value-date="2015-04-25">98568</value>
+    </budget>
+    <transaction ref="Incoming funds">
+      <transaction-type code="1"/>
+      <transaction-date iso-date="2015-05-01"/>
+      <value currency="EUR" value-date="2015-05-01">100000</value>
+      <description>
+        <narrative xml:lang="en">; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Irish Aid</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Trocaire</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-04-25"/>
+      <value currency="EUR" value-date="2015-04-25">5605</value>
+      <description>
+        <narrative xml:lang="en">Management and technical advisors - International staff salary; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Trocaire</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">CRS</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-04-25"/>
+      <value currency="EUR" value-date="2015-04-25">973</value>
+      <description>
+        <narrative xml:lang="en">Management and technical advisors - national staff salary; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Trocaire</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">CRS</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-04-25"/>
+      <value currency="EUR" value-date="2015-04-25">393</value>
+      <description>
+        <narrative xml:lang="en">Management and technical advisors - International staff benefit ; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Trocaire</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">CRS</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Disbursement">
+      <transaction-type code="3"/>
+      <transaction-date iso-date="2015-04-27"/>
+      <value currency="EUR" value-date="2015-04-27">87369</value>
+      <description>
+        <narrative xml:lang="en">Unconditional Cash Transfers; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Trocaire</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">CRS</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-04-28"/>
+      <value currency="EUR" value-date="2015-04-28">5660</value>
+      <description>
+        <narrative xml:lang="en">Contribution to Head Office Costs of 3%; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Trocaire</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Trocaire</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <related-activity ref="XI-IATI-WHS-NEPAL-ERFS2015_Nepal_Trocaire" type="1"/>
+    <result type="" aggregation-status="false">
+      <title>
+        <narrative xml:lang="en"></narrative>
+      </title>
+      <description>
+        <narrative xml:lang="en">Apropriate Unconditional Cash Transfer  distributed to vulnerable families for rebuilding and reconstruction, 1,288 vulnerable  families (6,440 beneficiaries) were able to meet their basic immediate household needs.</narrative>
+      </description>
+      <indicator measure="" ascending="1">
+        <title>
+          <narrative xml:lang="en"></narrative>
+        </title>
+      </indicator>
+    </result>
+  </iati-activity>
+</iati-activities>

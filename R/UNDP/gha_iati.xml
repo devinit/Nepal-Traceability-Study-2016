@@ -1,0 +1,1645 @@
+<iati-activities version="2.01" generated-datetime="2016-05-12T13:12:50Z">
+  <iati-activity last-updated-datetime="2016-05-12T13:12:50Z" xml:lang="en" default-currency="USD" hierarchy="1" linked-data-uri="">
+    <iati-identifier>XM-DAC-41114-OUTPUT-00095114</iati-identifier>
+    <reporting-org ref="XI-IATI-WHS-NEPAL" type="80" secondary-reporter="1">
+      <narrative xml:lang="en">Nepal Traceability Study 2016</narrative>
+    </reporting-org>
+    <title>
+      <narrative xml:lang="en">Nepal 2015 Earthquake Impact</narrative>
+    </title>
+    <description>
+      <narrative xml:lang="en">Building Back Better for Inclusive and Resilient Recovery in Nepal after Earthquake 2015</narrative>
+    </description>
+    <participating-org ref="UNDP" role="3">
+      <narrative xml:lang="en">UNDP</narrative>
+    </participating-org>
+    <activity-status code="2"/>
+    <activity-date type="2" iso-date="2015-10-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <activity-date type="4" iso-date="2016-10-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <contact-info type="">
+      <organisation>
+        <narrative xml:lang="en">UNDP</narrative>
+      </organisation>
+      <department>
+        <narrative xml:lang="en"></narrative>
+      </department>
+      <person-name>
+        <narrative xml:lang="en"></narrative>
+      </person-name>
+      <job-title>
+        <narrative xml:lang="en"></narrative>
+      </job-title>
+      <telephone></telephone>
+      <email>registry.np@undp.org</email>
+      <website></website>
+      <mailing-address>
+        <narrative xml:lang="en"></narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="NP" percentage="100"/>
+    <location ref="geoname_id">
+      <location-id code="1283379" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Gorkha</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283379">
+        <pos>28.33333 84.83333</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="7647006" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Sindhupalchok</narrative>
+      </name>
+      <point srsName="http://geonames.org/7647006">
+        <pos>27.82936 85.54504</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1283431" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Dolakha</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283431">
+        <pos>27.83333 86.25</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <sector vocabulary="99" code="">
+      <narrative xml:lang="en">Early Recovery</narrative>
+    </sector>
+    <budget type="">
+      <period-start iso-date="2015-10-01"/>
+      <period-end iso-date="2016-10-01"/>
+      <value currency="USD" value-date="2015-10-01">478350</value>
+    </budget>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">226114</value>
+      <description>
+        <narrative xml:lang="en">2015 annual expenditure; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Commitment">
+      <transaction-type code="2"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">478350</value>
+      <description>
+        <narrative xml:lang="en">Total commitment; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <related-activity ref="XI-IATI-WHS-NEPAL-" type="1"/>
+    <result type="" aggregation-status="false">
+      <title>
+        <narrative xml:lang="en"></narrative>
+      </title>
+      <description>
+        <narrative xml:lang="en">Improved communication and coordination of early recovery activities between the Government and development partners in the three districts (Gorkha, Sindhupalchowk and Dolaka);  Coordination and Technical Support provided to the National Reconstruction Authority to develop the National Five Year Post Disaster Recovery Framework;   Guidance Note for District Recovery Plan developed and Mult-stakeholder workshop held to develop Gorkha District Recovery Plan; technical capacity of Ministry of Urban Development strengthened on safer demolition, debris management and housing reconstruction</narrative>
+      </description>
+      <indicator measure="" ascending="1">
+        <title>
+          <narrative xml:lang="en"></narrative>
+        </title>
+      </indicator>
+    </result>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2016-05-12T13:12:50Z" xml:lang="en" default-currency="USD" hierarchy="1" linked-data-uri="">
+    <iati-identifier>XM-DAC-41114-OUTPUT-00088046</iati-identifier>
+    <reporting-org ref="XI-IATI-WHS-NEPAL" type="80" secondary-reporter="1">
+      <narrative xml:lang="en">Nepal Traceability Study 2016</narrative>
+    </reporting-org>
+    <title>
+      <narrative xml:lang="en">RERL- Renewable Energy for Rural Livelihood
+</narrative>
+    </title>
+    <description>
+      <narrative xml:lang="en">Renewable Energy for Rural Livelihood (RERL) project focuses on off-grid renewable energy technologies to promote income generating opportunities and a low-carbon development path in rural areas of Nepal. Alternative Energy Promotion Center's (AEPC) capacity enhanced for scaling up energy services in the rural areas.</narrative>
+    </description>
+    <participating-org ref="UNDP" role="3">
+      <narrative xml:lang="en">UNDP</narrative>
+    </participating-org>
+    <activity-status code="2"/>
+    <activity-date type="2" iso-date="2015-09-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <activity-date type="4" iso-date="2017-06-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <contact-info type="">
+      <organisation>
+        <narrative xml:lang="en">UNDP</narrative>
+      </organisation>
+      <department>
+        <narrative xml:lang="en"></narrative>
+      </department>
+      <person-name>
+        <narrative xml:lang="en"></narrative>
+      </person-name>
+      <job-title>
+        <narrative xml:lang="en"></narrative>
+      </job-title>
+      <telephone></telephone>
+      <email>registry.np@undp.org</email>
+      <website></website>
+      <mailing-address>
+        <narrative xml:lang="en"></narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="NP" percentage="100"/>
+    <location ref="geoname_id">
+      <location-id code="1283379" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Gorkha</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283379">
+        <pos>28.33333 84.83333</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="7647006" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Sindhupalchok</narrative>
+      </name>
+      <point srsName="http://geonames.org/7647006">
+        <pos>27.82936 85.54504</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1283431" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Dolakha</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283431">
+        <pos>27.83333 86.25</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <sector vocabulary="99" code="">
+      <narrative xml:lang="en">Early Recovery</narrative>
+    </sector>
+    <budget type="">
+      <period-start iso-date="2015-09-01"/>
+      <period-end iso-date="2017-06-01"/>
+      <value currency="USD" value-date="2015-09-01">1001550</value>
+    </budget>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">268931</value>
+      <description>
+        <narrative xml:lang="en">2015 annual expenditure; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Commitment">
+      <transaction-type code="2"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">50000</value>
+      <description>
+        <narrative xml:lang="en">Total commitment; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Kyocera Corporation</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <related-activity ref="XI-IATI-WHS-NEPAL-4522" type="1"/>
+    <result type="" aggregation-status="false">
+      <title>
+        <narrative xml:lang="en"></narrative>
+      </title>
+      <description>
+        <narrative xml:lang="en">Total of 28 mobile phone solar PV charging stations have been installed for earthquake victims in Dolakha and Sindhupalchok, benefitting 1400 people. Rapid assessment of the damages in 42 PVPS projects that provide drinking water to 2,500 HHs was carried out, contributing to the preparation for rehabilitationt of the facility (planned in 2016). Rapid assessment of EQ damaged 140 micro hydro sites (total installed capacity of 3,790 kW coverying 35,000 HH) conducted. 31 MHPs in Gorkha, Dhading, Dolakha and Sindhupalchowk (total generating capacity of 755 kW) repaired to benefit 7,500 HHs +  for immediate rehabilitation. 40 large solar PV systems were installed in public buildings like DDC, VDC, Municipality Offices, Health Posts and Birthing Centers, Temporary Learning Centers and Schools, benefitting more than 29,000 HHs who use services of these institutions. 5 portable solar PV systems installed in 2 health facilities in Sindupalshowk and Gorkha. </narrative>
+      </description>
+      <indicator measure="" ascending="1">
+        <title>
+          <narrative xml:lang="en"></narrative>
+        </title>
+      </indicator>
+    </result>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2016-05-12T13:12:50Z" xml:lang="en" default-currency="USD" hierarchy="1" linked-data-uri="">
+    <iati-identifier>XM-DAC-41114-OUTPUT-00095746</iati-identifier>
+    <reporting-org ref="XI-IATI-WHS-NEPAL" type="80" secondary-reporter="1">
+      <narrative xml:lang="en">Nepal Traceability Study 2016</narrative>
+    </reporting-org>
+    <title>
+      <narrative xml:lang="en">Community Infrastructure Livelihood Recovery Program</narrative>
+    </title>
+    <description>
+      <narrative xml:lang="en">Fostering Rural Livelihoods Recovery and Resilience of Earthquake Affected Communities in Nepal.</narrative>
+    </description>
+    <participating-org ref="UNDP" role="3">
+      <narrative xml:lang="en">UNDP</narrative>
+    </participating-org>
+    <activity-status code="2"/>
+    <activity-date type="2" iso-date="2015-06-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <activity-date type="4" iso-date="2016-12-31">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <contact-info type="">
+      <organisation>
+        <narrative xml:lang="en">UNDP</narrative>
+      </organisation>
+      <department>
+        <narrative xml:lang="en"></narrative>
+      </department>
+      <person-name>
+        <narrative xml:lang="en"></narrative>
+      </person-name>
+      <job-title>
+        <narrative xml:lang="en"></narrative>
+      </job-title>
+      <telephone></telephone>
+      <email>registry.np@undp.org</email>
+      <website></website>
+      <mailing-address>
+        <narrative xml:lang="en"></narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="NP" percentage="100"/>
+    <location ref="geoname_id">
+      <location-id code="1283282" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Kavre</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283282">
+        <pos>27.58333 85.66667</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="7647006" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Sindhupalchok</narrative>
+      </name>
+      <point srsName="http://geonames.org/7647006">
+        <pos>27.82936 85.54504</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1283431" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Dolakha</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283431">
+        <pos>27.83333 86.25</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1282859" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Rasuwa</narrative>
+      </name>
+      <point srsName="http://geonames.org/1282859">
+        <pos>28.16667 85.33333</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1282973" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Nuwakot</narrative>
+      </name>
+      <point srsName="http://geonames.org/1282973">
+        <pos>27.91667 85.25</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <sector vocabulary="99" code="">
+      <narrative xml:lang="en">Early Recovery, Food security</narrative>
+    </sector>
+    <budget type="">
+      <period-start iso-date="2015-06-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="USD" value-date="2015-06-01">1656268</value>
+    </budget>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">452595</value>
+      <description>
+        <narrative xml:lang="en">2015 annual expenditure; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Commitment">
+      <transaction-type code="2"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">312654</value>
+      <description>
+        <narrative xml:lang="en">Total commitment; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Commitment">
+      <transaction-type code="2"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">997252</value>
+      <description>
+        <narrative xml:lang="en">Total commitment; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Government of Mauritius</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Incoming Funds">
+      <transaction-type code="1"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">1028936</value>
+      <description>
+        <narrative xml:lang="en">Fund received in 2015; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Government of Mauritius</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <related-activity ref="XI-IATI-WHS-NEPAL-" type="1"/>
+    <result type="" aggregation-status="false">
+      <title>
+        <narrative xml:lang="en"></narrative>
+      </title>
+      <description>
+        <narrative xml:lang="en">40 community infrastructure built in Kavre, Sindhupalchowk,  Dolakha districts benefitting 4452 households
+6289 person days of employment created. Vegetable seed distribution (10 different variety)  benefitted 1000 households in three program district. 
+86 households benefitted from business development and market linkage training. 
+165 farmers/individuals gained skills on Lapsi processing training (50), mushroom (60), kitchen waste water management (25), community seed bank establishment (30).</narrative>
+      </description>
+      <indicator measure="" ascending="1">
+        <title>
+          <narrative xml:lang="en"></narrative>
+        </title>
+      </indicator>
+    </result>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2016-05-12T13:12:50Z" xml:lang="en" default-currency="USD" hierarchy="1" linked-data-uri="">
+    <iati-identifier>XM-DAC-41114-OUTPUT-00095805</iati-identifier>
+    <reporting-org ref="XI-IATI-WHS-NEPAL" type="80" secondary-reporter="1">
+      <narrative xml:lang="en">Nepal Traceability Study 2016</narrative>
+    </reporting-org>
+    <title>
+      <narrative xml:lang="en">RELRP - Rapid Enterprise Livelihood Recovery Programme</narrative>
+    </title>
+    <description>
+      <narrative xml:lang="en">RELRP  provides immediate support to earthquake affected people to revive t their business to and stabilize the local economy.</narrative>
+    </description>
+    <participating-org ref="UNDP" role="3">
+      <narrative xml:lang="en">UNDP</narrative>
+    </participating-org>
+    <activity-status code="2"/>
+    <activity-date type="2" iso-date="2015-06-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <activity-date type="4" iso-date="2016-06-30">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <contact-info type="">
+      <organisation>
+        <narrative xml:lang="en">UNDP</narrative>
+      </organisation>
+      <department>
+        <narrative xml:lang="en"></narrative>
+      </department>
+      <person-name>
+        <narrative xml:lang="en"></narrative>
+      </person-name>
+      <job-title>
+        <narrative xml:lang="en"></narrative>
+      </job-title>
+      <telephone></telephone>
+      <email>registry.np@undp.org</email>
+      <website></website>
+      <mailing-address>
+        <narrative xml:lang="en"></narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="NP" percentage="100"/>
+    <location ref="geoname_id">
+      <location-id code="7647006" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Sindhupalchok</narrative>
+      </name>
+      <point srsName="http://geonames.org/7647006">
+        <pos>27.82936 85.54504</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1283282" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Kavre</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283282">
+        <pos>27.58333 85.66667</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1283431" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Dolakha</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283431">
+        <pos>27.83333 86.25</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1282859" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Rasuwa</narrative>
+      </name>
+      <point srsName="http://geonames.org/1282859">
+        <pos>28.16667 85.33333</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1282973" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Nuwakot</narrative>
+      </name>
+      <point srsName="http://geonames.org/1282973">
+        <pos>27.91667 85.25</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1282879" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Ramechhap</narrative>
+      </name>
+      <point srsName="http://geonames.org/1282879">
+        <pos>27.41667 86.08333</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1282776" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Sindhuli</narrative>
+      </name>
+      <point srsName="http://geonames.org/1282776">
+        <pos>27.25 86.0</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <sector vocabulary="99" code="">
+      <narrative xml:lang="en">Early Recovery</narrative>
+    </sector>
+    <budget type="">
+      <period-start iso-date="2015-06-01"/>
+      <period-end iso-date="2016-06-30"/>
+      <value currency="USD" value-date="2015-06-01">6363678</value>
+    </budget>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">3194519</value>
+      <description>
+        <narrative xml:lang="en">2015 annual expenditure; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Incoming Funds">
+      <transaction-type code="1"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">3103449</value>
+      <description>
+        <narrative xml:lang="en">Fund received in 2015; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">
+DFAT
+</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Incoming Funds">
+      <transaction-type code="1"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">330000</value>
+      <description>
+        <narrative xml:lang="en">Fund received in 2015; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">
+INTEL
+</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <related-activity ref="AU-5-INL753-NP" type="1"/>
+    <result type="" aggregation-status="false">
+      <title>
+        <narrative xml:lang="en"></narrative>
+      </title>
+      <description>
+        <narrative xml:lang="en">1. Verification of existing MEs for revival : 9,907 (82%) existing micro entrepreneurs verified by November end. (61.4% are women, 53.3% Janajati, and 14% are Dalit)
+2. Micro entrepreneurs received psychosocial training: 6,878 (62.5%)  existing micro entrepreneurs received psychosocial counselling training by November end. (62.8% of are women, 54% Janjati and 13% Dalit)). 
+3. MEs benefitted with appropriate technology: 4,011 (62%) of targeted existing micro entrepreneurs received technology support by November end. 58.5% of beneficiaries are women, 52% Janjati and 16% are Dalit.
+4. MEs trained on technical skills: 1,109 (22.18%) of targeted existing micro entrepreneurs received skill or refresher training by November end. 57% of trainees are women, 49% Janjati and 12% Dalit.
+5. New microenterprise created: 465 (31%) of potential new micro entrepreneurs identified by November end. 55% of potential new micro entrepreneurs are women, 46% are Janjati and 22% are Dalit.</narrative>
+      </description>
+      <indicator measure="" ascending="1">
+        <title>
+          <narrative xml:lang="en"></narrative>
+        </title>
+      </indicator>
+    </result>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2016-05-12T13:12:50Z" xml:lang="en" default-currency="USD" hierarchy="1" linked-data-uri="">
+    <iati-identifier>XM-DAC-41114-OUTPUT-00098704</iati-identifier>
+    <reporting-org ref="XI-IATI-WHS-NEPAL" type="80" secondary-reporter="1">
+      <narrative xml:lang="en">Nepal Traceability Study 2016</narrative>
+    </reporting-org>
+    <title>
+      <narrative xml:lang="en">Livelihoods Stablization(LSER)</narrative>
+    </title>
+    <description>
+      <narrative xml:lang="en">LSER project will provide livelihood opportunities to earthquake affected people in Gorkha and Dhading</narrative>
+    </description>
+    <participating-org ref="UNDP" role="3">
+      <narrative xml:lang="en">UNDP</narrative>
+    </participating-org>
+    <activity-status code="2"/>
+    <activity-date type="2" iso-date="2016-01-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <activity-date type="4" iso-date="2016-12-31">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <contact-info type="">
+      <organisation>
+        <narrative xml:lang="en">UNDP</narrative>
+      </organisation>
+      <department>
+        <narrative xml:lang="en"></narrative>
+      </department>
+      <person-name>
+        <narrative xml:lang="en"></narrative>
+      </person-name>
+      <job-title>
+        <narrative xml:lang="en"></narrative>
+      </job-title>
+      <telephone></telephone>
+      <email>registry.np@undp.org</email>
+      <website></website>
+      <mailing-address>
+        <narrative xml:lang="en"></narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="NP" percentage="100"/>
+    <sector vocabulary="99" code="">
+      <narrative xml:lang="en">Early Recovery</narrative>
+    </sector>
+    <budget type="">
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="USD" value-date="2016-01-01">674000</value>
+    </budget>
+    <transaction ref="Commitment">
+      <transaction-type code="2"/>
+      <transaction-date iso-date="2015-05-01"/>
+      <value currency="USD" value-date="2015-05-01">32199</value>
+      <description>
+        <narrative xml:lang="en">Total commitment; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Government of Japan</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Commitment">
+      <transaction-type code="2"/>
+      <transaction-date iso-date="2015-05-01"/>
+      <value currency="USD" value-date="2015-05-01">644000</value>
+      <description>
+        <narrative xml:lang="en">Total commitment; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">DANIDA</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <related-activity ref="XI-IATI-WHS-NEPAL-" type="1"/>
+    <result type="" aggregation-status="false">
+      <title>
+        <narrative xml:lang="en"></narrative>
+      </title>
+      <description>
+        <narrative xml:lang="en"></narrative>
+      </description>
+      <indicator measure="" ascending="1">
+        <title>
+          <narrative xml:lang="en"></narrative>
+        </title>
+      </indicator>
+    </result>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2016-05-12T13:12:50Z" xml:lang="en" default-currency="USD" hierarchy="1" linked-data-uri="">
+    <iati-identifier>XM-DAC-41114-OUTPUT-00088411</iati-identifier>
+    <reporting-org ref="XI-IATI-WHS-NEPAL" type="80" secondary-reporter="1">
+      <narrative xml:lang="en">Nepal Traceability Study 2016</narrative>
+    </reporting-org>
+    <title>
+      <narrative xml:lang="en">CDRMP
+(Comprehensive Disaster Risk Management  Programme ) </narrative>
+    </title>
+    <description>
+      <narrative xml:lang="en">Vulnerable populations have increased knowledge about disaster risk management and capacity for climate change adaptation and mitigation of risks.</narrative>
+    </description>
+    <participating-org ref="UNDP" role="3">
+      <narrative xml:lang="en">UNDP</narrative>
+    </participating-org>
+    <activity-status code="2"/>
+    <activity-date type="2" iso-date="2015-05-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <activity-date type="4" iso-date="2016-12-31">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <contact-info type="">
+      <organisation>
+        <narrative xml:lang="en">UNDP</narrative>
+      </organisation>
+      <department>
+        <narrative xml:lang="en"></narrative>
+      </department>
+      <person-name>
+        <narrative xml:lang="en"></narrative>
+      </person-name>
+      <job-title>
+        <narrative xml:lang="en"></narrative>
+      </job-title>
+      <telephone></telephone>
+      <email>registry.np@undp.org</email>
+      <website></website>
+      <mailing-address>
+        <narrative xml:lang="en"></narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="NP" percentage="100"/>
+    <location ref="geoname_id">
+      <location-id code="7647006" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Sindhupalchok</narrative>
+      </name>
+      <point srsName="http://geonames.org/7647006">
+        <pos>27.82936 85.54504</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1283431" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Dolakha</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283431">
+        <pos>27.83333 86.25</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <sector vocabulary="99" code="">
+      <narrative xml:lang="en">Early Recovery</narrative>
+    </sector>
+    <budget type="">
+      <period-start iso-date="2015-05-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="USD" value-date="2015-05-01">1857904</value>
+    </budget>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">899121</value>
+      <description>
+        <narrative xml:lang="en">2015 annual expenditure; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Commitment ">
+      <transaction-type code="2"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">958783</value>
+      <description>
+        <narrative xml:lang="en">Total commitment; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">KOICA</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <related-activity ref="XI-IATI-WHS-NEPAL-" type="1"/>
+    <result type="" aggregation-status="false">
+      <title>
+        <narrative xml:lang="en"></narrative>
+      </title>
+      <description>
+        <narrative xml:lang="en">1.  2500 HHs in Sindhupalchowk  and Chitwan districts supported  with drought tolerant varieties of paddy (Khumal -4 and Sukkha-2,3). Additionally, 213 HHs were supported with fruits saplings, 83 HHs with coffee seedlings, 132 HHs with cardamom seedlings.
+2.149 persons from government officers, media and security personnel trained on D/CRM                                                                                                  3. Local Disaster Risk Management Plan for 3 VDCs (Bhotechaur, Thakani and Haibung) and 2 Municipalities (Maadi Chitwan and 2 wards of Melamchi).                                                                                                                                                                                                                                                                           4. Integrated Watershed Management Plan for Riu-khola sub-watershed in Maadi Chitwan was prepared.                                                               5. About 15 ha area inside community forest and private lands planted with different forests/NTFPs species benefiting 1200 HHs.</narrative>
+      </description>
+      <indicator measure="" ascending="1">
+        <title>
+          <narrative xml:lang="en"></narrative>
+        </title>
+      </indicator>
+    </result>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2016-05-12T13:12:50Z" xml:lang="en" default-currency="USD" hierarchy="1" linked-data-uri="">
+    <iati-identifier>XM-DAC-41114-OUTPUT-00077652</iati-identifier>
+    <reporting-org ref="XI-IATI-WHS-NEPAL" type="80" secondary-reporter="1">
+      <narrative xml:lang="en">Nepal Traceability Study 2016</narrative>
+    </reporting-org>
+    <title>
+      <narrative xml:lang="en">Comprehensive Disaster Risk Management  Programme</narrative>
+    </title>
+    <description>
+      <narrative xml:lang="en">Government officials at all levels have capacity to lead and implement systems and policies to effectively manage disaster risks  and adapt to climate change.</narrative>
+    </description>
+    <participating-org ref="UNDP" role="3">
+      <narrative xml:lang="en">UNDP</narrative>
+    </participating-org>
+    <activity-status code="2"/>
+    <activity-date type="2" iso-date="2015-05-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <activity-date type="4" iso-date="2016-12-31">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <contact-info type="">
+      <organisation>
+        <narrative xml:lang="en">UNDP</narrative>
+      </organisation>
+      <department>
+        <narrative xml:lang="en"></narrative>
+      </department>
+      <person-name>
+        <narrative xml:lang="en"></narrative>
+      </person-name>
+      <job-title>
+        <narrative xml:lang="en"></narrative>
+      </job-title>
+      <telephone></telephone>
+      <email>registry.np@undp.org</email>
+      <website></website>
+      <mailing-address>
+        <narrative xml:lang="en"></narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="NP" percentage="100"/>
+    <location ref="geoname_id">
+      <location-id code="7647006" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Sindhupalchok</narrative>
+      </name>
+      <point srsName="http://geonames.org/7647006">
+        <pos>27.82936 85.54504</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1283431" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Dolakha</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283431">
+        <pos>27.83333 86.25</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <sector vocabulary="99" code="">
+      <narrative xml:lang="en">Early Recovery</narrative>
+    </sector>
+    <budget type="">
+      <period-start iso-date="2015-05-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="USD" value-date="2015-05-01">1209222</value>
+    </budget>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">440000</value>
+      <description>
+        <narrative xml:lang="en">2015 annual expenditure; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Incoming Funds">
+      <transaction-type code="1"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">100000</value>
+      <description>
+        <narrative xml:lang="en">Received fund in 2015; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Baidu Foundation</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code=""/>
+    </transaction>
+    <transaction ref="Commitment ">
+      <transaction-type code="2"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">250000</value>
+      <description>
+        <narrative xml:lang="en">Total commitment; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Commitment ">
+      <transaction-type code="2"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">540568</value>
+      <description>
+        <narrative xml:lang="en">Total commitment; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">China</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Commitment ">
+      <transaction-type code="2"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">318654</value>
+      <description>
+        <narrative xml:lang="en">Total commitment; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">UNDP Japan Partnership Fund</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Commitment ">
+      <transaction-type code="2"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">100000</value>
+      <description>
+        <narrative xml:lang="en">Total commitment; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Baidu Foundation</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code=""/>
+    </transaction>
+    <related-activity ref="XI-IATI-WHS-NEPAL-" type="1"/>
+    <result type="" aggregation-status="false">
+      <title>
+        <narrative xml:lang="en"></narrative>
+      </title>
+      <description>
+        <narrative xml:lang="en">1. HFA Progress for 10 years prepared
+2. 3 ToTs and 3 masons training completed
+3. 5 Case Studies one each for GESI, ICRMp, NBC, ILS and EPRER
+4. Evaluation of EOC Networks completed 
+5. Evaluation of effectiveness of  partnerships under NASC, LDTA, TU-CDES completed
+6. Trainings to engineers/professional engineers, orientation to local leaders, house owners, private sectos ) completed.
+7. E-BPS support provided to KMC, LSMC. e-BPS by KMC formally launched.
+8. RSLUP for KV and its 21 municipalities prepared. Engineers trained on RSLUP. Trainers on RSLUP trained. Building Bye-Laws prepared. Local level RSLUP preparation guidelines prepared.
+9. 577 engineers (99 women) trained in collaboration with NEA.
+10. 2 trainings done. 15 masons deployed in 15 VDCs around Chautara.
+11. 14 stations installed between Singati and Naa VDC at downstream of Tsho Rolpa
+12. The construction of gabion spurs and launching aprons have been carried out in Pasaha Khola Parsa.</narrative>
+      </description>
+      <indicator measure="" ascending="1">
+        <title>
+          <narrative xml:lang="en"></narrative>
+        </title>
+      </indicator>
+    </result>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2016-05-12T13:12:50Z" xml:lang="en" default-currency="USD" hierarchy="1" linked-data-uri="">
+    <iati-identifier>XM-DAC-41114-OUTPUT-00084773</iati-identifier>
+    <reporting-org ref="XI-IATI-WHS-NEPAL" type="80" secondary-reporter="1">
+      <narrative xml:lang="en">Nepal Traceability Study 2016</narrative>
+    </reporting-org>
+    <title>
+      <narrative xml:lang="en">ROLHR
+(Strengthening Rule of Law and Human Rights Protection System in Nepal Programme)</narrative>
+    </title>
+    <description>
+      <narrative xml:lang="en">Strengthening the Rule of Law and Human Rights Protection System in Nepal Programme (2013-2017)</narrative>
+    </description>
+    <participating-org ref="UNDP" role="3">
+      <narrative xml:lang="en">UNDP</narrative>
+    </participating-org>
+    <activity-status code="2"/>
+    <activity-date type="2" iso-date="2015-07-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <activity-date type="4" iso-date="2017-12-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <contact-info type="">
+      <organisation>
+        <narrative xml:lang="en">UNDP</narrative>
+      </organisation>
+      <department>
+        <narrative xml:lang="en"></narrative>
+      </department>
+      <person-name>
+        <narrative xml:lang="en"></narrative>
+      </person-name>
+      <job-title>
+        <narrative xml:lang="en"></narrative>
+      </job-title>
+      <telephone></telephone>
+      <email>registry.np@undp.org</email>
+      <website></website>
+      <mailing-address>
+        <narrative xml:lang="en"></narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="NP" percentage="100"/>
+    <location ref="geoname_id">
+      <location-id code="7647006" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Sindhupalchok</narrative>
+      </name>
+      <point srsName="http://geonames.org/7647006">
+        <pos>27.82936 85.54504</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <sector vocabulary="99" code="">
+      <narrative xml:lang="en">Early Recovery</narrative>
+    </sector>
+    <budget type="">
+      <period-start iso-date="2015-07-01"/>
+      <period-end iso-date="2017-12-01"/>
+      <value currency="USD" value-date="2015-07-01">50000</value>
+    </budget>
+    <transaction ref="Disbursement">
+      <transaction-type code="3"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">50000</value>
+      <description>
+        <narrative xml:lang="en">2015 annual disbursement; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Government of Nepal</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Commitment">
+      <transaction-type code="2"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">50000</value>
+      <description>
+        <narrative xml:lang="en">Total commitment; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Government of Finland</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <related-activity ref="XI-IATI-WHS-NEPAL-" type="1"/>
+    <result type="" aggregation-status="false">
+      <title>
+        <narrative xml:lang="en"></narrative>
+      </title>
+      <description>
+        <narrative xml:lang="en">Mobile legal aid clinics established in Chautara, Sindhupalchowk; More 600 survivors received legal aid services</narrative>
+      </description>
+      <indicator measure="" ascending="1">
+        <title>
+          <narrative xml:lang="en"></narrative>
+        </title>
+      </indicator>
+    </result>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2016-05-12T13:12:50Z" xml:lang="en" default-currency="USD" hierarchy="1" linked-data-uri="">
+    <iati-identifier>XM-DAC-41114-OUTPUT-60718</iati-identifier>
+    <reporting-org ref="XI-IATI-WHS-NEPAL" type="80" secondary-reporter="1">
+      <narrative xml:lang="en">Nepal Traceability Study 2016</narrative>
+    </reporting-org>
+    <title>
+      <narrative xml:lang="en">SCNHRC (Strengthening Capacity of National Human Rights Commission)</narrative>
+    </title>
+    <description>
+      <narrative xml:lang="en">Strengthening the Capacity of the National Human Rights Commission (SC-NHRC)</narrative>
+    </description>
+    <participating-org ref="UNDP" role="3">
+      <narrative xml:lang="en">UNDP</narrative>
+    </participating-org>
+    <activity-status code="2"/>
+    <activity-date type="2" iso-date="2015-08-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <activity-date type="4" iso-date="2016-02-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <contact-info type="">
+      <organisation>
+        <narrative xml:lang="en">UNDP</narrative>
+      </organisation>
+      <department>
+        <narrative xml:lang="en"></narrative>
+      </department>
+      <person-name>
+        <narrative xml:lang="en"></narrative>
+      </person-name>
+      <job-title>
+        <narrative xml:lang="en"></narrative>
+      </job-title>
+      <telephone></telephone>
+      <email>registry.np@undp.org</email>
+      <website></website>
+      <mailing-address>
+        <narrative xml:lang="en"></narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="NP" percentage="100"/>
+    <location ref="geoname_id">
+      <location-id code="1282859" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Rasuwa</narrative>
+      </name>
+      <point srsName="http://geonames.org/1282859">
+        <pos>28.16667 85.33333</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1282973" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Nuwakot</narrative>
+      </name>
+      <point srsName="http://geonames.org/1282973">
+        <pos>27.91667 85.25</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1283379" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Gorkha</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283379">
+        <pos>28.33333 84.83333</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1283472" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Dhading</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283472">
+        <pos>28.0 84.91667</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="10330199" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Makawanpur</narrative>
+      </name>
+      <point srsName="http://geonames.org/10330199">
+        <pos>27.41429 85.17962</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1283282" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Kavre</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283282">
+        <pos>27.58333 85.66667</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1282776" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Sindhuli</narrative>
+      </name>
+      <point srsName="http://geonames.org/1282776">
+        <pos>27.25 86.0</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1282879" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Ramechhap</narrative>
+      </name>
+      <point srsName="http://geonames.org/1282879">
+        <pos>27.41667 86.08333</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1283431" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Dolakha</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283431">
+        <pos>27.83333 86.25</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="7647006" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Sindhupalchok</narrative>
+      </name>
+      <point srsName="http://geonames.org/7647006">
+        <pos>27.82936 85.54504</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="7801037" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Okhaldhunga</narrative>
+      </name>
+      <point srsName="http://geonames.org/7801037">
+        <pos>27.31643 86.50508</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <sector vocabulary="99" code="">
+      <narrative xml:lang="en">Early Recovery</narrative>
+    </sector>
+    <budget type="">
+      <period-start iso-date="2015-08-01"/>
+      <period-end iso-date="2016-02-01"/>
+      <value currency="USD" value-date="2015-08-01">100000</value>
+    </budget>
+    <transaction ref="Disbursement">
+      <transaction-type code="3"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">90744</value>
+      <description>
+        <narrative xml:lang="en">2015 annual disbursement; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Government of Nepal</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Commitment">
+      <transaction-type code="2"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">100000</value>
+      <description>
+        <narrative xml:lang="en">Total commitment; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <related-activity ref="XI-IATI-WHS-NEPAL-" type="1"/>
+    <result type="" aggregation-status="false">
+      <title>
+        <narrative xml:lang="en"></narrative>
+      </title>
+      <description>
+        <narrative xml:lang="en">Mobile human rights camps have been stablished in 11 affected districts, 50,000 benefited from the services, established coordination with all human rights defenders</narrative>
+      </description>
+      <indicator measure="" ascending="1">
+        <title>
+          <narrative xml:lang="en"></narrative>
+        </title>
+      </indicator>
+    </result>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2016-05-12T13:12:50Z" xml:lang="en" default-currency="USD" hierarchy="1" linked-data-uri="">
+    <iati-identifier>XM-DAC-41114-OUTPUT-00096402</iati-identifier>
+    <reporting-org ref="XI-IATI-WHS-NEPAL" type="80" secondary-reporter="1">
+      <narrative xml:lang="en">Nepal Traceability Study 2016</narrative>
+    </reporting-org>
+    <title>
+      <narrative xml:lang="en">LGCDP (Local Governance and Community Development Programme)</narrative>
+    </title>
+    <description>
+      <narrative xml:lang="en">The Local Governance and Community Development Programme II : Policy and Programme Support Facility</narrative>
+    </description>
+    <participating-org ref="UNDP" role="3">
+      <narrative xml:lang="en">UNDP</narrative>
+    </participating-org>
+    <activity-status code="2"/>
+    <activity-date type="2" iso-date="2015-05-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <activity-date type="4" iso-date="2016-12-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <contact-info type="">
+      <organisation>
+        <narrative xml:lang="en">UNDP</narrative>
+      </organisation>
+      <department>
+        <narrative xml:lang="en"></narrative>
+      </department>
+      <person-name>
+        <narrative xml:lang="en"></narrative>
+      </person-name>
+      <job-title>
+        <narrative xml:lang="en"></narrative>
+      </job-title>
+      <telephone></telephone>
+      <email>registry.np@undp.org</email>
+      <website></website>
+      <mailing-address>
+        <narrative xml:lang="en"></narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="NP" percentage="100"/>
+    <location ref="geoname_id">
+      <location-id code="1283282" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Kavre</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283282">
+        <pos>27.58333 85.66667</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="7647006" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Sindhupalchok</narrative>
+      </name>
+      <point srsName="http://geonames.org/7647006">
+        <pos>27.82936 85.54504</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1283431" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Dolakha</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283431">
+        <pos>27.83333 86.25</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <sector vocabulary="99" code="">
+      <narrative xml:lang="en">Early Recovery</narrative>
+    </sector>
+    <budget type="">
+      <period-start iso-date="2015-05-01"/>
+      <period-end iso-date="2016-12-01"/>
+      <value currency="USD" value-date="2015-05-01">3027517</value>
+    </budget>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">1933052</value>
+      <description>
+        <narrative xml:lang="en">2015 annual expenditure; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Disbursement">
+      <transaction-type code="3"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">801643</value>
+      <description>
+        <narrative xml:lang="en">2015 annual disbursement; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Government of Nepal</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Commitment">
+      <transaction-type code="2"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">1000000</value>
+      <description>
+        <narrative xml:lang="en">Total commitment; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Government of Japan</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Commitment">
+      <transaction-type code="2"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">100000</value>
+      <description>
+        <narrative xml:lang="en">Total commitment; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Government of Georgia</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Commitment">
+      <transaction-type code="2"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">827517</value>
+      <description>
+        <narrative xml:lang="en">Total commitment; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en"></narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Commitment">
+      <transaction-type code="2"/>
+      <transaction-date iso-date="2015-12-31"/>
+      <value currency="USD" value-date="2015-12-31">1100000</value>
+      <description>
+        <narrative xml:lang="en">Total commitment; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Koica</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">UNDP</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <related-activity ref="XI-IATI-WHS-NEPAL-" type="1"/>
+    <result type="" aggregation-status="false">
+      <title>
+        <narrative xml:lang="en"></narrative>
+      </title>
+      <description>
+        <narrative xml:lang="en">3821public and private buildings safely demolished and sites cleared for reconstruction, and 294,000 cubic meter of debris managed (75% useable materials salvaged worth USD 11 m in replacement value) through cash for work. As a result, 4,346 emergency jobs (40% female) created restoring livelihoods of rural communities. 
+A pool of 250 skilled persons generated on safe demolition, debris management and disaster waste management. Out of this, 92 engineers further capacitated through on-site mentoring by international experts, who successfully supervised 4,346 community workers engaged in demolition and debris management.
+13 temporary government offices established facilitating early restoration of public service. DDC and Village Development Committee ( VDC)  capacity assessments carried out and capacity development framework fulfilling recovery requirements developed.</narrative>
+      </description>
+      <indicator measure="" ascending="1">
+        <title>
+          <narrative xml:lang="en"></narrative>
+        </title>
+      </indicator>
+    </result>
+  </iati-activity>
+</iati-activities>

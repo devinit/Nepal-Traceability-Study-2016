@@ -1,0 +1,449 @@
+<iati-activities version="2.01" generated-datetime="2016-05-12T13:12:50Z">
+  <iati-activity last-updated-datetime="2016-05-12T13:12:50Z" xml:lang="en" default-currency="USD" hierarchy="1" linked-data-uri="">
+    <iati-identifier>XI-IATI-WHS-NEPAL-PPNL HUM 2015 001</iati-identifier>
+    <reporting-org ref="XI-IATI-WHS-NEPAL" type="80" secondary-reporter="1">
+      <narrative xml:lang="en">Nepal Traceability Study 2016</narrative>
+    </reporting-org>
+    <title>
+      <narrative xml:lang="en">Nepal Earthquake Response</narrative>
+    </title>
+    <description>
+      <narrative xml:lang="en">Initial Needs assessment followed by combined provision of hygeine kits to affected communities</narrative>
+    </description>
+    <participating-org ref="Oxfam Ireland" role="3">
+      <narrative xml:lang="en">Oxfam Ireland</narrative>
+    </participating-org>
+    <activity-status code="4"/>
+    <activity-date type="2" iso-date="2015-04-25">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <activity-date type="4" iso-date="2015-08-31">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <contact-info type="1">
+      <organisation>
+        <narrative xml:lang="en">Oxfam Ireland</narrative>
+      </organisation>
+      <department>
+        <narrative xml:lang="en">International Programme Department</narrative>
+      </department>
+      <person-name>
+        <narrative xml:lang="en">Michael O'Riordan</narrative>
+      </person-name>
+      <job-title>
+        <narrative xml:lang="en">Humanitarian Coordinator</narrative>
+      </job-title>
+      <telephone>353 (0) 1 6350 431</telephone>
+      <email>Michael.ORiordan@oxfamireland.org</email>
+      <website>www.oxfamireland,org</website>
+      <mailing-address>
+        <narrative xml:lang="en">Oxfam ireland
+2nd Floor Portview House
+Thorncastle Street,
+Ringsend,
+Dublin 4,
+Ireland</narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="NP" percentage="100"/>
+    <location ref="geoname_id">
+      <location-id code="1283379" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Gorkha</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283379">
+        <pos>28.33333 84.83333</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <sector vocabulary="99" code="">
+      <narrative xml:lang="en">Water, Sanitation and Hygiene</narrative>
+    </sector>
+    <budget type="">
+      <period-start iso-date="2015-04-25"/>
+      <period-end iso-date="2015-08-31"/>
+      <value currency="EUR" value-date="2015-04-25">100000</value>
+    </budget>
+    <transaction ref="Incoming Funds">
+      <transaction-type code="1"/>
+      <transaction-date iso-date="2015-05-01"/>
+      <value currency="EUR" value-date="2015-05-01">100000</value>
+      <description>
+        <narrative xml:lang="en">Pre-positioned emergency response funds. Release granted 01/05/2015; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Irish Aid</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Oxfam Ireland</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Disbursement">
+      <transaction-type code="3"/>
+      <transaction-date iso-date="2015-08-14"/>
+      <value currency="EUR" value-date="2015-08-14">84906</value>
+      <description>
+        <narrative xml:lang="en">Transfer of 1st Tranche of funds to Oxfam Nepal Country Programme to cover activities; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Oxfam Ireland</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Oxfam Nepal Country Programme</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Disbursement">
+      <transaction-type code="3"/>
+      <transaction-date iso-date="2016-02-19"/>
+      <value currency="EUR" value-date="2016-02-19">9434</value>
+      <description>
+        <narrative xml:lang="en">Transfer of 2nd Tranche of funds to Oxfam Nepal Country Programme to cover activities, following submission of final report; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Oxfam Ireland</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Oxfam Nepal Country Programme</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Disbursement">
+      <transaction-type code="3"/>
+      <transaction-date iso-date="2015-11-30"/>
+      <value currency="EUR" value-date="2015-11-30">5660</value>
+      <description>
+        <narrative xml:lang="en">Management Support Costs / Indirect Cost recovery. Transfer of funds from restricted fund to general funds; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Oxfam Ireland</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Oxfam Ireland</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <related-activity ref="XI-IATI-WHS-NEPAL-ERFS2015_Nepal_Oxfam" type="1"/>
+    <result type="" aggregation-status="false">
+      <title>
+        <narrative xml:lang="en"></narrative>
+      </title>
+      <description>
+        <narrative xml:lang="en">2,829 Family Hygiene Kits distributed and head office management costs</narrative>
+      </description>
+      <indicator measure="" ascending="1">
+        <title>
+          <narrative xml:lang="en"></narrative>
+        </title>
+      </indicator>
+    </result>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2016-05-12T13:12:50Z" xml:lang="en" default-currency="USD" hierarchy="1" linked-data-uri="">
+    <iati-identifier>XI-IATI-WHS-NEPAL-NPLB33 R06406</iati-identifier>
+    <reporting-org ref="XI-IATI-WHS-NEPAL" type="80" secondary-reporter="1">
+      <narrative xml:lang="en">Nepal Traceability Study 2016</narrative>
+    </reporting-org>
+    <title>
+      <narrative xml:lang="en">Nepal Earthquake Response</narrative>
+    </title>
+    <description>
+      <narrative xml:lang="en">Initial Needs assessment followed by combined provision of hygeine kits to affected communities</narrative>
+    </description>
+    <participating-org ref="Oxfam Ireland" role="3">
+      <narrative xml:lang="en">Oxfam Ireland</narrative>
+    </participating-org>
+    <activity-status code="4"/>
+    <activity-date type="2" iso-date="2015-04-25">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <activity-date type="4" iso-date="2015-08-31">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <contact-info type="1">
+      <organisation>
+        <narrative xml:lang="en">Oxfam Ireland</narrative>
+      </organisation>
+      <department>
+        <narrative xml:lang="en">International Programme Department</narrative>
+      </department>
+      <person-name>
+        <narrative xml:lang="en">Michael O'Riordan</narrative>
+      </person-name>
+      <job-title>
+        <narrative xml:lang="en">Humanitarian Coordinator</narrative>
+      </job-title>
+      <telephone>353 (0) 1 6350 431</telephone>
+      <email>Michael.ORiordan@oxfamireland.org</email>
+      <website>www.oxfamireland,org</website>
+      <mailing-address>
+        <narrative xml:lang="en">Oxfam ireland
+2nd Floor Portview House
+Thorncastle Street,
+Ringsend,
+Dublin 4,
+Ireland</narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="NP" percentage="100"/>
+    <location ref="geoname_id">
+      <location-id code="7801826" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Makaising</narrative>
+      </name>
+      <point srsName="http://geonames.org/7801826">
+        <pos>27.88021 84.6585</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="7799037" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Finam</narrative>
+      </name>
+      <point srsName="http://geonames.org/7799037">
+        <pos>28.004 84.6567</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="7799396" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Takumajhalakuribot</narrative>
+      </name>
+      <point srsName="http://geonames.org/7799396">
+        <pos>28.1006 84.681</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="1283379" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Gorkha</narrative>
+      </name>
+      <point srsName="http://geonames.org/1283379">
+        <pos>28.33333 84.83333</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <sector vocabulary="99" code="">
+      <narrative xml:lang="en">Water, Sanitation and Hygiene</narrative>
+    </sector>
+    <budget type="">
+      <period-start iso-date="2015-04-25"/>
+      <period-end iso-date="2015-08-31"/>
+      <value currency="EUR" value-date="2015-04-25">100000</value>
+    </budget>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-08-31"/>
+      <value currency="EUR" value-date="2015-08-31">15239</value>
+      <description>
+        <narrative xml:lang="en">Distribution of hygeine kits; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Oxfam Nepal Country Programme</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Suppliers Purchase costs</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-08-31"/>
+      <value currency="EUR" value-date="2015-08-31">21859</value>
+      <description>
+        <narrative xml:lang="en">Distribution of hygeine kits; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Oxfam Nepal Country Programme</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Suppliers Purchase costs</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-08-31"/>
+      <value currency="EUR" value-date="2015-08-31">15359</value>
+      <description>
+        <narrative xml:lang="en">Distribution of hygeine kits; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Oxfam Nepal Country Programme</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Suppliers Purchase costs</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Disbursement">
+      <transaction-type code="3"/>
+      <transaction-date iso-date="2015-07-31"/>
+      <value currency="EUR" value-date="2015-07-31">3354</value>
+      <description>
+        <narrative xml:lang="en">Transfer of funds to partner Goreto Gorkha; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Oxfam Nepal Country Programme</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en"> Goreto Gorkha</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-07-31"/>
+      <value currency="EUR" value-date="2015-07-31">3354</value>
+      <description>
+        <narrative xml:lang="en">Staff and transport costs; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en"> Goreto Gorkha</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Various</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-08-31"/>
+      <value currency="EUR" value-date="2015-08-31">7478</value>
+      <description>
+        <narrative xml:lang="en">Rental of vehicles for Oxfam staff to visit project sites. Multiple transaction dates: date given end of project period (posting as per General Ledger); </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Oxfam Nepal Country Programme</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Vehicle Rental Costs</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-08-31"/>
+      <value currency="EUR" value-date="2015-08-31">632</value>
+      <description>
+        <narrative xml:lang="en">Rental of trucks to transport Hygeine Kits to distribution sites. Multiple transaction dates: date given end of project period (posting as per General Ledger); </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Oxfam Nepal Country Programme</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Truck Rental Company</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-08-31"/>
+      <value currency="EUR" value-date="2015-08-31">239</value>
+      <description>
+        <narrative xml:lang="en">Payment of loaders and unladers for hygeine kits. Multiple transaction dates: date given end of project period (posting as per General Ledger); </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Oxfam Nepal Country Programme</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Casual Labour</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-08-31"/>
+      <value currency="EUR" value-date="2015-08-31">1885</value>
+      <description>
+        <narrative xml:lang="en">Sundry costs (mobile phone, stationery, office rent, etc) Multiple transaction dates: date given end of project period (posting as per General Ledger); </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Oxfam Nepal Country Programme</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Various</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-08-31"/>
+      <value currency="EUR" value-date="2015-08-31">12645</value>
+      <description>
+        <narrative xml:lang="en">Salaries for Oxfam Nepal Staff. Multiple transaction dates: date given end of project period (posting as per General Ledger); </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Oxfam Nepal Country Programme</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Oxfam Nepal Country Programme Staff</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <related-activity ref="XI-IATI-WHS-NEPAL-ERFS2015_Nepal_Oxfam" type="1"/>
+    <result type="" aggregation-status="false">
+      <title>
+        <narrative xml:lang="en"></narrative>
+      </title>
+      <description>
+        <narrative xml:lang="en">2,179 Family Hygiene Kits distributed, Partner's Support Cost, Vehicle Hire charges, Truck rental for relief material movement to local warehouse to distribution point (total kit 1500 - total no trip 4), Field level operating costs (Communications, office and guest house running, computer maintenance, and other mantenance), in-country stafff costs</narrative>
+      </description>
+      <indicator measure="" ascending="1">
+        <title>
+          <narrative xml:lang="en"></narrative>
+        </title>
+      </indicator>
+    </result>
+  </iati-activity>
+</iati-activities>

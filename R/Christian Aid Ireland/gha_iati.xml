@@ -1,0 +1,417 @@
+<iati-activities version="2.01" generated-datetime="2016-05-12T13:12:50Z">
+  <iati-activity last-updated-datetime="2016-05-12T13:12:50Z" xml:lang="en" default-currency="USD" hierarchy="1" linked-data-uri="">
+    <iati-identifier>XI-IATI-WHS-NEPAL-01417A71N502116</iati-identifier>
+    <reporting-org ref="XI-IATI-WHS-NEPAL" type="80" secondary-reporter="1">
+      <narrative xml:lang="en">Nepal Traceability Study 2016</narrative>
+    </reporting-org>
+    <title>
+      <narrative xml:lang="en">Emergency Support for Earthquake affected communities in Nepal</narrative>
+    </title>
+    <description>
+      <narrative xml:lang="en">The project has provided support to the communities affaceted by the devastating earthquake on 25th April 2015, Christian Aid and its partner Poorvanchal Gramin Vikas Sansthan (PGVS) responded days after to provide a multi-sector emergency response, comprising WASH, food, shelter and medical assistance, reaching 5,000 households.</narrative>
+    </description>
+    <participating-org ref="Christian Aid Ireland" role="3">
+      <narrative xml:lang="en">Christian Aid Ireland</narrative>
+    </participating-org>
+    <activity-status code="3"/>
+    <activity-date type="2" iso-date="2015-05-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <activity-date type="4" iso-date="2015-06-30">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <contact-info type="1">
+      <organisation>
+        <narrative xml:lang="en">Christian Aid</narrative>
+      </organisation>
+      <department>
+        <narrative xml:lang="en">Humanitarian</narrative>
+      </department>
+      <person-name>
+        <narrative xml:lang="en">Dipankar Chyau Patnaik</narrative>
+      </person-name>
+      <job-title>
+        <narrative xml:lang="en">Senior Emergency Programme Manager</narrative>
+      </job-title>
+      <telephone>-1044696</telephone>
+      <email>dpatnaik@christian-aid.org</email>
+      <website>www.christian-aid.org.ok</website>
+      <mailing-address>
+        <narrative xml:lang="en">Annapurna Marga, Chappal Karkhana, Kathmandu Nepal</narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="NP" percentage="100"/>
+    <location ref="geoname_id">
+      <location-id code="7799402" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Tandrang</narrative>
+      </name>
+      <point srsName="http://geonames.org/7799402">
+        <pos>28.0337 84.7752</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="7799474" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Thumi</narrative>
+      </name>
+      <point srsName="http://geonames.org/7799474">
+        <pos>28.1314 84.8216</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="7799245" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Manbu</narrative>
+      </name>
+      <point srsName="http://geonames.org/7799245">
+        <pos>28.1475 84.9167</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location></location>
+    <location></location>
+    <location ref="geoname_id">
+      <location-id code="7799009" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Dhawa</narrative>
+      </name>
+      <point srsName="http://geonames.org/7799009">
+        <pos>28.0134 84.7823</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location></location>
+    <sector vocabulary="99" code="">
+      <narrative xml:lang="en">WaSH, health, shelter &amp; NFIs, nutrition</narrative>
+    </sector>
+    <budget type="">
+      <period-start iso-date="2015-05-01"/>
+      <period-end iso-date="2015-06-30"/>
+      <value currency="EUR" value-date="2015-05-01">100000</value>
+    </budget>
+    <transaction ref="Incoming funds">
+      <transaction-type code="1"/>
+      <transaction-date iso-date="2015-05-01"/>
+      <value currency="EUR" value-date="2015-05-01">75000</value>
+      <description>
+        <narrative xml:lang="en">; Date missing. 2015-05-01 is a placeholder.</narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Irish Aid</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Christian Aid</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Incoming funds">
+      <transaction-type code="1"/>
+      <transaction-date iso-date="2015-05-01"/>
+      <value currency="EUR" value-date="2015-05-01">25000</value>
+      <description>
+        <narrative xml:lang="en">Christian Aid match funding; Date missing. 2015-05-01 is a placeholder.</narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Christian Aid</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Christian Aid</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Disbursement">
+      <transaction-type code="3"/>
+      <transaction-date iso-date="2015-04-30"/>
+      <value currency="EUR" value-date="2015-04-30">64306</value>
+      <description>
+        <narrative xml:lang="en">; </narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Christian Aid</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Poorvanchal Gramin Vikas Sansthan</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-05-01"/>
+      <value currency="EUR" value-date="2015-05-01">4500</value>
+      <description>
+        <narrative xml:lang="en">Administration costs; Date missing. 2015-05-01 is a placeholder.</narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Christian Aid</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Christian Aid</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code=""/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-05-01"/>
+      <value currency="EUR" value-date="2015-05-01">6194</value>
+      <description>
+        <narrative xml:lang="en">Towards Christian Aid field response; Date missing. 2015-05-01 is a placeholder.</narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Christian Aid</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Various</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code=""/>
+    </transaction>
+    <related-activity ref="XI-IATI-WHS-NEPAL-ERFS2015_Nepal_ChristianAid" type="1"/>
+    <result type="" aggregation-status="false">
+      <title>
+        <narrative xml:lang="en"></narrative>
+      </title>
+      <description>
+        <narrative xml:lang="en"> - Hygiene awareness camps were set up in each village,
+- Distrbution of hygiene Kits 
+- Four mobile hospitals were established 
+- Awareness on Aqua Tabs for disinfection water
+- Cleaning of camps, establishment of waste disposal areas
+- Distribution of  emergency shelter kits (tarpaulins and rope) to 5, 000 households 
+- Running a community kitchen from 6th to 13th May 2015 to provide immediate food for earthquake affected 4,264 people 
+- Ready to eat food packages to 2,500 households </narrative>
+      </description>
+      <indicator measure="" ascending="1">
+        <title>
+          <narrative xml:lang="en"></narrative>
+        </title>
+      </indicator>
+    </result>
+  </iati-activity>
+  <iati-activity last-updated-datetime="2016-05-12T13:12:50Z" xml:lang="en" default-currency="USD" hierarchy="1" linked-data-uri="">
+    <iati-identifier>XI-IATI-WHS-NEPAL-ChristianAid funded earthquake response</iati-identifier>
+    <reporting-org ref="XI-IATI-WHS-NEPAL" type="80" secondary-reporter="1">
+      <narrative xml:lang="en">Nepal Traceability Study 2016</narrative>
+    </reporting-org>
+    <title>
+      <narrative xml:lang="en">Emergency Support for Earthquake affected communities in Nepal</narrative>
+    </title>
+    <description>
+      <narrative xml:lang="en">The project has provided support to the communities affaceted by the devastating earthquake on 25th April 2015, Christian Aid and its partner Poorvanchal Gramin Vikas Sansthan (PGVS) responded days after to provide a multi-sector emergency response, comprising WASH, food, shelter and medical assistance, reaching 5,000 households.</narrative>
+    </description>
+    <participating-org ref="Christian Aid Ireland" role="3">
+      <narrative xml:lang="en">Christian Aid Ireland</narrative>
+    </participating-org>
+    <activity-status code="3"/>
+    <activity-date type="2" iso-date="2015-05-01">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <activity-date type="4" iso-date="2015-06-30">
+      <narrative xml:lang="en"/>
+    </activity-date>
+    <contact-info type="1">
+      <organisation>
+        <narrative xml:lang="en">Christian Aid</narrative>
+      </organisation>
+      <department>
+        <narrative xml:lang="en">Humanitarian</narrative>
+      </department>
+      <person-name>
+        <narrative xml:lang="en">Dipankar Chyau Patnaik</narrative>
+      </person-name>
+      <job-title>
+        <narrative xml:lang="en">Senior Emergency Programme Manager</narrative>
+      </job-title>
+      <telephone>-1044696</telephone>
+      <email>dpatnaik@christian-aid.org</email>
+      <website>www.christian-aid.org.ok</website>
+      <mailing-address>
+        <narrative xml:lang="en">Annapurna Marga, Chappal Karkhana, Kathmandu Nepal</narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="NP" percentage="100"/>
+    <location ref="geoname_id">
+      <location-id code="7799402" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Tandrang</narrative>
+      </name>
+      <point srsName="http://geonames.org/7799402">
+        <pos>28.0337 84.7752</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="7799474" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Thumi</narrative>
+      </name>
+      <point srsName="http://geonames.org/7799474">
+        <pos>28.1314 84.8216</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="7799245" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Manbu</narrative>
+      </name>
+      <point srsName="http://geonames.org/7799245">
+        <pos>28.1475 84.9167</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="7798888" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Aaruarbang</narrative>
+      </name>
+      <point srsName="http://geonames.org/7798888">
+        <pos>28.0922 84.7985</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="7798900" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Aarupokhari</narrative>
+      </name>
+      <point srsName="http://geonames.org/7798900">
+        <pos>28.0618 84.776</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="7799009" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Dhawa</narrative>
+      </name>
+      <point srsName="http://geonames.org/7799009">
+        <pos>28.0134 84.7823</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <location ref="geoname_id">
+      <location-id code="7798892" vocabulary="G1"/>
+      <name>
+        <narrative xml:lang="en">Aaruchanuate</narrative>
+      </name>
+      <point srsName="http://geonames.org/7798892">
+        <pos>28.0689 84.8136</pos>
+      </point>
+      <exactness code="1"/>
+      <location-class code="1"/>
+    </location>
+    <sector vocabulary="99" code="">
+      <narrative xml:lang="en">WaSH, health, shelter &amp; NFIs, nutrition</narrative>
+    </sector>
+    <budget type="">
+      <period-start iso-date="2015-05-01"/>
+      <period-end iso-date="2015-06-30"/>
+      <value currency="EUR" value-date="2015-05-01">64306</value>
+    </budget>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-05-01"/>
+      <value currency="EUR" value-date="2015-05-01">7373</value>
+      <description>
+        <narrative xml:lang="en">Distribution of hygiene kits
+Hygiene awareness camps in each village
+Awareness on Aquatabs for disinfecting water
+Cleaning of camps and establishment of waste disposal areas; Date missing. 2015-05-01 is a placeholder.</narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Poorvanchal Gramin Vikas Sansthan</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Various</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-05-01"/>
+      <value currency="EUR" value-date="2015-05-01">51714</value>
+      <description>
+        <narrative xml:lang="en">Emergency shelter kits; Date missing. 2015-05-01 is a placeholder.</narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Poorvanchal Gramin Vikas Sansthan</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Various</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <transaction ref="Expenditure">
+      <transaction-type code="4"/>
+      <transaction-date iso-date="2015-05-01"/>
+      <value currency="EUR" value-date="2015-05-01">5219</value>
+      <description>
+        <narrative xml:lang="en">Travel and support costs; Date missing. 2015-05-01 is a placeholder.</narrative>
+      </description>
+      <provider-org ref="" provider-activity-id="">
+        <narrative xml:lang="en">Poorvanchal Gramin Vikas Sansthan</narrative>
+      </provider-org>
+      <receiver-org ref="" receiver-activity-id="">
+        <narrative xml:lang="en">Various</narrative>
+      </receiver-org>
+      <sector vocabulary="99" code="">
+        <narrative xml:lang="en"></narrative>
+      </sector>
+      <finance-type code="100"/>
+    </transaction>
+    <related-activity ref="XI-IATI-WHS-NEPAL-01417A71N502116" type="1"/>
+    <result type="" aggregation-status="false">
+      <title>
+        <narrative xml:lang="en"></narrative>
+      </title>
+      <description>
+        <narrative xml:lang="en"> - Hygiene awareness camps were set up in each village,
+- Distrbution of hygiene Kits 
+- Four mobile hospitals were established 
+- Awareness on Aqua Tabs for disinfection water
+- Cleaning of camps, establishment of waste disposal areas
+- Distribution of  emergency shelter kits (tarpaulins and rope) to 5, 000 households 
+- Running a community kitchen from 6th to 13th May 2015 to provide immediate food for earthquake affected 4,264 people 
+- Ready to eat food packages to 2,500 households </narrative>
+      </description>
+      <indicator measure="" ascending="1">
+        <title>
+          <narrative xml:lang="en"></narrative>
+        </title>
+      </indicator>
+    </result>
+  </iati-activity>
+</iati-activities>
