@@ -1,0 +1,11 @@
+<iati-organisations version="2.02" generated-datetime="2016-05-16T09:10:00">
+    <iati-organisation last-updated-datetime="2016-05-16T09:10:00" xml:lang="en" default-currency="USD">
+        <organisation-identifier>XI-IATI-WHS-NEPAL</organisation-identifier>
+        <name>
+            <narrative>Nepal Traceability Study 2016</narrative>
+        </name>
+        <reporting-org ref="XI-IATI-WHS-NEPAL" type="80">
+            <narrative>Nepal Traceability Study 2016</narrative>
+        </reporting-org>
+    </iati-organisation>
+</iati-organisations>
